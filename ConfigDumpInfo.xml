@@ -1,7 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.5">
 	<ConfigVersions>
-		<Metadata name="Catalog.нормальноеИмя" id="48876594-36c2-4db9-8ce2-2125173768c5" configVersion="72fd49ece6af7545be1bcfa1f9eb2abd00000000"/>
+		<Metadata name="Catalog.нормальноеИмя" id="48876594-36c2-4db9-8ce2-2125173768c5" configVersion="c77c5d3c01bf7b4f837268053b6448fc00000000">
+			<Metadata name="Catalog.нормальноеИмя.Attribute.НДС" id="a8668f83-48be-4c90-bb0e-dad81ce955f4"/>
+		</Metadata>
+		<Metadata name="Catalog.нормальноеИмя.Form.ФормаСписка" id="a790252a-9c31-4ee8-a1a4-ee1911f682ca" configVersion="e3b1d57a95dfaf4bab6e6ad969251d7a00000000"/>
+		<Metadata name="Catalog.нормальноеИмя.Form.ФормаСписка.Form" id="a790252a-9c31-4ee8-a1a4-ee1911f682ca.0" configVersion="6355551da012cf458b143cabcbaf058c00000000"/>
+		<Metadata name="Catalog.нормальноеИмя.Form.ФормаЭлемента" id="ad8afc97-d7fa-4ccf-a4e4-6e33154376c2" configVersion="f975248891b66248b01626421bcd3fc400000000"/>
+		<Metadata name="Catalog.нормальноеИмя.Form.ФормаЭлемента.Form" id="ad8afc97-d7fa-4ccf-a4e4-6e33154376c2.0" configVersion="159803c54c0a4b45b6923f6f74312c0500000000"/>
+		<Metadata name="Catalog.нормальноеИмя.ObjectModule" id="48876594-36c2-4db9-8ce2-2125173768c5.0" configVersion="6eca8e9076299347a6c5dd8cdba7677e00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="4db9a8a8-40a9-4b9b-ae61-01cf1b3269c6" configVersion="7ea2fa9520af984c9724f2029abeba4f00000000"/>
 		<Metadata name="Language.Русский" id="165bff95-d6b0-4b80-86d0-351b5abeb285" configVersion="1ab2d0814cd4934186ee0c435c7b8b1d00000000"/>
 	</ConfigVersions>
